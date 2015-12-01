@@ -3,7 +3,7 @@
 1. World's largest Web Developer site:
  - HTML: http://www.w3schools.com/html/default.asp
  - CSS: http://www.w3schools.com/css/default.asp
-1. Learn to Code Basic HTML & CS: http://learn.shayhowe.com/html-css/
+1. Learn to Code Basic HTML & CSS: http://learn.shayhowe.com/html-css/
 1. Learn to Code Advanced HTML & CSS: http://learn.shayhowe.com/advanced-html-css/
 1. Learn how to create websites by structuring and styling your pages with HTML and CSS: https://www.codecademy.com/tracks/web
 1. Best practices:
