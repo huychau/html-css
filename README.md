@@ -1,13 +1,13 @@
 # HTML CSS
 
 ## Basic
- 1. Ebook HTML/CSS Design and build Websites http://wtf.tw/ref/duckett.pdf
- 1. World's largest Web Developer site:
- - HTML: http://www.w3schools.com/html/default.asp
- - CSS: http://www.w3schools.com/css/default.asp
- 1. Learn to Code Basic HTML & CSS: http://learn.shayhowe.com/html-css/
- 1. Learn to Code Advanced HTML & CSS: http://learn.shayhowe.com/advanced-html-css/
- 1. Learn how to create websites by structuring and styling your pages with HTML and CSS: https://www.codecademy.com/tracks/web
+ - Ebook HTML/CSS Design and build Websites http://wtf.tw/ref/duckett.pdf
+ - World's largest Web Developer site:
+  - HTML: http://www.w3schools.com/html/default.asp
+  - CSS: http://www.w3schools.com/css/default.asp
+ - Learn to Code Basic HTML & CSS: http://learn.shayhowe.com/html-css/
+ - Learn to Code Advanced HTML & CSS: http://learn.shayhowe.com/advanced-html-css/
+ - Learn how to create websites by structuring and styling your pages with HTML and CSS: https://www.codecademy.com/tracks/web
 
 ## Best practices
  - http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
