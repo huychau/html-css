@@ -9,7 +9,7 @@
  1. Learn to Code Advanced HTML & CSS: http://learn.shayhowe.com/advanced-html-css/
  1. Learn how to create websites by structuring and styling your pages with HTML and CSS: https://www.codecademy.com/tracks/web
 
-##. Best practices
+## Best practices
  - http://webdesign.tutsplus.com/courses/30-days-to-learn-html-css
  - http://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741
  - https://github.com/bendc/frontend-guidelines
