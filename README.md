@@ -19,7 +19,7 @@
  - HTML5: http://www.w3schools.com/html/html5_quiz.asp
  - CSS: http://www.w3schools.com/css/css_quiz.asp
 
-## Learn more about Frame
+## Learn more about Framework
  - Bootstrap: http://getbootstrap.com/
  - Bourbon: http://bourbon.io/
  - Foundation: http://foundation.zurb.com/
